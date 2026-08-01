@@ -1,0 +1,10 @@
+# 秘匿情報
+.env
+
+# Python venv / キャッシュ
+.venv/
+__pycache__/
+*.pyc
+
+# 生成物(make_vector_db で再生成できるのでコミットしない)
+debate_agent/chroma_db/

@@ -1,0 +1,1 @@
+invalid type: string "ラムダ式の例\n２つの整数の最小値を求める関数\n( int num1 , int num2 ) -> {\n    if (num1 < num2 ){\n      return num1;\n    } else {\n      return num2;\n    }\n };\n月の日数を求めるラムダ式（=関数）\n( int month ) -> {\n if(month==4 || month==6 || month==9||month=11){\n      return 30;\n    }else if(month==2){\nreturn 28;\n    }else{\n���
